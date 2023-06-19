@@ -6733,10 +6733,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@ungap/custom-elements@npm:1.2.0":
-  version: 1.2.0
-  resolution: "@ungap/custom-elements@npm:1.2.0"
-  checksum: 6c31b8d72e0023f82d806f6598091373ef7e843983a07a2414c5ce2b9c3009e2cf75a796b3f5446f7cd83e510cfdf295ae0ce5f62fbb7eb7f1c1f0809a21508e
+"@ungap/custom-elements@npm:1.2.1":
+  version: 1.2.1
+  resolution: "@ungap/custom-elements@npm:1.2.1"
+  checksum: 34e82559d54d086de1fbb280e5aeb6a054610888b1f135031caf586395daa3e7bba5121bab4f46c00200577d2d72df678cd5394a9472194030a830a21efec199
   languageName: node
   linkType: hard
 
@@ -16790,7 +16790,7 @@ __metadata:
     "@types/winbox": 0.2.1
     "@typescript-eslint/eslint-plugin": 5.54.1
     "@typescript-eslint/parser": 5.54.1
-    "@ungap/custom-elements": 1.2.0
+    "@ungap/custom-elements": 1.2.1
     "@vue/compiler-sfc": 3.2.47
     bootstrap: 5.2.3
     bootstrap-icons: 1.10.3
