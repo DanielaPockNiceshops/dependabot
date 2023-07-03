@@ -11241,10 +11241,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"gsap@npm:3.11.4":
-  version: 3.11.4
-  resolution: "gsap@npm:3.11.4"
-  checksum: 1f8ef165c5bb35cdda785b31bb733357072e7efdc67297612b7c7b4b775e422d407bd91efad8a26bb07b686640d4f001d5f1c04abd0fe13c5a479dae1368a219
+"gsap@npm:3.12.2":
+  version: 3.12.2
+  resolution: "gsap@npm:3.12.2"
+  checksum: e3e9709f9ca60cee0ef7fd91f45a232a48b550f95b6df090dfffe2511fccc651408476de575b69c1c2ce80b6089b6ad0d4854beb58ea427f14e51a30b0640a70
   languageName: node
   linkType: hard
 
@@ -16804,7 +16804,7 @@ __metadata:
     eslint: 8.35.0
     eslint-webpack-plugin: 3.2.0
     file-loader: 6.2.0
-    gsap: 3.11.4
+    gsap: 3.12.2
     jquery: 3.6.4
     lottie-web: 5.10.2
     mini-css-extract-plugin: 2.7.3
