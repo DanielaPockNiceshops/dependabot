@@ -94,6 +94,6 @@
     "vue": "3.2.47",
     "vue-debounce": "4.0.0",
     "vue3-barcode-scanner": "1.0.8",
-    "winbox": "0.2.6"
+    "winbox": "0.2.82"
   }
 }
