@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "4190fd9446d6eb122b6080c7bf763b30",
+    "content-hash": "0660c0beb1d2f57826cbefd08a841705",
     "packages": [
         {
             "name": "adyen/php-api-library",
@@ -1014,16 +1014,16 @@
         },
         {
             "name": "firebase/php-jwt",
-            "version": "v6.5.0",
+            "version": "v6.8.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/firebase/php-jwt.git",
-                "reference": "e94e7353302b0c11ec3cfff7180cd0b1743975d2"
+                "reference": "5dbc8959427416b8ee09a100d7a8588c00fb2e26"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/firebase/php-jwt/zipball/e94e7353302b0c11ec3cfff7180cd0b1743975d2",
-                "reference": "e94e7353302b0c11ec3cfff7180cd0b1743975d2",
+                "url": "https://api.github.com/repos/firebase/php-jwt/zipball/5dbc8959427416b8ee09a100d7a8588c00fb2e26",
+                "reference": "5dbc8959427416b8ee09a100d7a8588c00fb2e26",
                 "shasum": ""
             },
             "require": {
@@ -1071,9 +1071,9 @@
             ],
             "support": {
                 "issues": "https://github.com/firebase/php-jwt/issues",
-                "source": "https://github.com/firebase/php-jwt/tree/v6.5.0"
+                "source": "https://github.com/firebase/php-jwt/tree/v6.8.1"
             },
-            "time": "2023-05-12T15:47:07+00:00"
+            "time": "2023-07-14T18:33:00+00:00"
         },
         {
             "name": "google/apiclient",
@@ -1249,16 +1249,16 @@
         },
         {
             "name": "google/cloud-bigquery",
-            "version": "v1.24.2",
+            "version": "v1.25.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/googleapis/google-cloud-php-bigquery.git",
-                "reference": "1c82d670bfc27efbd33afbdeec74745dee31240e"
+                "reference": "42cb0b9ebd339907c37c14fefe86a97a7951c5ff"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/googleapis/google-cloud-php-bigquery/zipball/1c82d670bfc27efbd33afbdeec74745dee31240e",
-                "reference": "1c82d670bfc27efbd33afbdeec74745dee31240e",
+                "url": "https://api.github.com/repos/googleapis/google-cloud-php-bigquery/zipball/42cb0b9ebd339907c37c14fefe86a97a7951c5ff",
+                "reference": "42cb0b9ebd339907c37c14fefe86a97a7951c5ff",
                 "shasum": ""
             },
             "require": {
@@ -1298,9 +1298,9 @@
             ],
             "description": "BigQuery Client for PHP",
             "support": {
-                "source": "https://github.com/googleapis/google-cloud-php-bigquery/tree/v1.24.2"
+                "source": "https://github.com/googleapis/google-cloud-php-bigquery/tree/v1.25.1"
             },
-            "time": "2023-05-05T23:01:42+00:00"
+            "time": "2023-07-22T00:34:50+00:00"
         },
         {
             "name": "google/cloud-core",
@@ -13397,5 +13397,5 @@
     "platform-overrides": {
         "php": "7.4"
     },
-    "plugin-api-version": "2.2.0"
+    "plugin-api-version": "2.3.0"
 }
