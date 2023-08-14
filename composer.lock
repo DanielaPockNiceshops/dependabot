@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "4190fd9446d6eb122b6080c7bf763b30",
+    "content-hash": "e487870c558b64c83e760c0e63f2e5c4",
     "packages": [
         {
             "name": "adyen/php-api-library",
@@ -168,16 +168,16 @@
         },
         {
             "name": "aws/aws-crt-php",
-            "version": "v1.2.1",
+            "version": "v1.2.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/awslabs/aws-crt-php.git",
-                "reference": "1926277fc71d253dfa820271ac5987bdb193ccf5"
+                "reference": "2f1dc7b7eda080498be96a4a6d683a41583030e9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/awslabs/aws-crt-php/zipball/1926277fc71d253dfa820271ac5987bdb193ccf5",
-                "reference": "1926277fc71d253dfa820271ac5987bdb193ccf5",
+                "url": "https://api.github.com/repos/awslabs/aws-crt-php/zipball/2f1dc7b7eda080498be96a4a6d683a41583030e9",
+                "reference": "2f1dc7b7eda080498be96a4a6d683a41583030e9",
                 "shasum": ""
             },
             "require": {
@@ -216,22 +216,22 @@
             ],
             "support": {
                 "issues": "https://github.com/awslabs/aws-crt-php/issues",
-                "source": "https://github.com/awslabs/aws-crt-php/tree/v1.2.1"
+                "source": "https://github.com/awslabs/aws-crt-php/tree/v1.2.2"
             },
-            "time": "2023-03-24T20:22:19+00:00"
+            "time": "2023-07-20T16:49:55+00:00"
         },
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.269.14",
+            "version": "3.278.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "7ca74fdf63fa6b0ef8120485c97e753658eb4d8a"
+                "reference": "d9c58e931efef8f053449e5374bbe0f1745c45d0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/7ca74fdf63fa6b0ef8120485c97e753658eb4d8a",
-                "reference": "7ca74fdf63fa6b0ef8120485c97e753658eb4d8a",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/d9c58e931efef8f053449e5374bbe0f1745c45d0",
+                "reference": "d9c58e931efef8f053449e5374bbe0f1745c45d0",
                 "shasum": ""
             },
             "require": {
@@ -311,9 +311,9 @@
             "support": {
                 "forum": "https://forums.aws.amazon.com/forum.jspa?forumID=80",
                 "issues": "https://github.com/aws/aws-sdk-php/issues",
-                "source": "https://github.com/aws/aws-sdk-php/tree/3.269.14"
+                "source": "https://github.com/aws/aws-sdk-php/tree/3.278.2"
             },
-            "time": "2023-05-18T18:20:30+00:00"
+            "time": "2023-08-14T18:09:33+00:00"
         },
         {
             "name": "brick/math",
@@ -13397,5 +13397,5 @@
     "platform-overrides": {
         "php": "7.4"
     },
-    "plugin-api-version": "2.2.0"
+    "plugin-api-version": "2.3.0"
 }
