@@ -8682,10 +8682,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"core-js@npm:3.29.0":
-  version: 3.29.0
-  resolution: "core-js@npm:3.29.0"
-  checksum: 2bd69d783efcd2ef9197ce892a8b91d7b2fd86dddce805a3be0ff721013a2342eeab0f7d0b4b5548c1377b9846a8fb81485054efd39618b9d1a1fca04af81ccf
+"core-js@npm:3.32.1":
+  version: 3.32.1
+  resolution: "core-js@npm:3.32.1"
+  checksum: e4af91d9c6be7b59235feb3f273d16705126ce09a0b4a787144d131d874f0cd10be3c24fc52e5eea7d7cb03ceabe4be7b255abcd9474b5eb1ff365d2c5611f9a
   languageName: node
   linkType: hard
 
@@ -16797,7 +16797,7 @@ __metadata:
     bowser: 2.11.0
     breakpoint-sass: 3.0.0
     coa: 2.0.2
-    core-js: 3.29.0
+    core-js: 3.32.1
     cross-env: 7.0.3
     cypress: 12.7.0
     cypress-image-diff-js: 1.23.0
