@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "4190fd9446d6eb122b6080c7bf763b30",
+    "content-hash": "a7034f521c41d9caa69a192f5bdbae12",
     "packages": [
         {
             "name": "adyen/php-api-library",
@@ -1147,20 +1147,20 @@
         },
         {
             "name": "google/apiclient-services",
-            "version": "v0.298.0",
+            "version": "v0.315.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/googleapis/google-api-php-client-services.git",
-                "reference": "68710abd2b921f5df4ae99412fc05bac268acddc"
+                "reference": "9fe675be642888cded64be861891901f092ab72d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/googleapis/google-api-php-client-services/zipball/68710abd2b921f5df4ae99412fc05bac268acddc",
-                "reference": "68710abd2b921f5df4ae99412fc05bac268acddc",
+                "url": "https://api.github.com/repos/googleapis/google-api-php-client-services/zipball/9fe675be642888cded64be861891901f092ab72d",
+                "reference": "9fe675be642888cded64be861891901f092ab72d",
                 "shasum": ""
             },
             "require": {
-                "php": ">=5.6"
+                "php": "^7.4||^8.0"
             },
             "require-dev": {
                 "phpunit/phpunit": "^5.7||^8.5.13"
@@ -1185,9 +1185,9 @@
             ],
             "support": {
                 "issues": "https://github.com/googleapis/google-api-php-client-services/issues",
-                "source": "https://github.com/googleapis/google-api-php-client-services/tree/v0.298.0"
+                "source": "https://github.com/googleapis/google-api-php-client-services/tree/v0.315.0"
             },
-            "time": "2023-05-01T01:06:14+00:00"
+            "time": "2023-09-10T01:10:37+00:00"
         },
         {
             "name": "google/auth",
@@ -13397,5 +13397,5 @@
     "platform-overrides": {
         "php": "7.4"
     },
-    "plugin-api-version": "2.2.0"
+    "plugin-api-version": "2.3.0"
 }
